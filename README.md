@@ -3,7 +3,11 @@ This analysis explores key patterns and anomalies in shift activity and performa
 1.	Shift Popularity - Trends in shift views, availability, and shifts worked.
 2.	Earning Insights - Top performing months, days of the week, and time slots.
 3.	Data Anomalies - Misaligned slot types, shifts lasting for zero hours, claimed shifts deleted after their start time, offers with revenue loss, and multiple shift claims.
-Data analysis code can be found here.
+
+# Data processing
+- Original dataset in Excel can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/fc0e5f3726e21f50835d5f88f68ca6db9604fb8f/Elist_Data_trimmed.xlsx)
+- Data analysis in Python can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/a087a4413d174ad601b6fcfbed092c1fd3b2eef5/Avada_ecommerce_Analysis_git.xlsx)
+
 
 # Executive Summary
 •	A total of 19,900 shifts were posted by 132 workplaces and are available between September 22, 2024, and January 20, 2025.
@@ -79,17 +83,14 @@ I have identified some anomalies in the data that need to be addressed. This inc
 ## Closing Remarks
 This report aims to showcase my analytical capabilities from a business perspective, within a reasonable timeframe. It presents a high-level overview of key performance indicators (KPIs) such as Shift conversion rate & Gross revenue margins and identifies potential data anomalies. To derive precise metrics, a deeper understanding of the event chronology with respect to cases involving multiple claims, cancellations, and no-shows (which were also marked as worked shifts) is essential. Accurate values of the KPIs will require further data validation and cleaning, typically carried out iteratively in collaboration with team members, supervisors, or stakeholders.
 
-. 
 ## Supplementary Information
 ### Figure S1: Charge rate per hour and Duration of shift stays consistent across slot type & day of week.
 ![image](https://github.com/user-attachments/assets/5f7a7bd2-b175-4b38-a9c7-2a8710c9836f)
 
- 
- 
 ### Figure S2: Workplace Deletions After Shift Claim and Shift Commencement.
-
-
+![Screenshot 2025-04-27 121343](https://github.com/user-attachments/assets/1ffccd60-eca1-4e66-92f5-53bb5f17dad0)
  
-###Figure S3: Worker Shift Cancelations and No Shows.
- 
+### Figure S3: Worker Shift Cancelations and No Shows.
+ ![Screenshot 2025-04-27 121358](https://github.com/user-attachments/assets/9c4039c1-cb91-4a59-9670-367b45eb832d)
+
 
