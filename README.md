@@ -5,7 +5,7 @@ This analysis explores key patterns and anomalies in shift activity and performa
 3.	Data Anomalies - Misaligned slot types, shifts lasting for zero hours, claimed shifts deleted after their start time, offers with revenue loss, and multiple shift claims.
 
 # Data processing
-- Original dataset in Excel can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/fc0e5f3726e21f50835d5f88f68ca6db9604fb8f/Elist_Data_trimmed.xlsx)
+- Original dataset in Excel can be found [here](https://github.com/shilpakarumanchi/WeCare/blob/56df8f77df12083a9a22cc7fe28fc0688aa5fe9f/connect_shift_python.xlsx)
 - Data analysis in Python can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/a087a4413d174ad601b6fcfbed092c1fd3b2eef5/Avada_ecommerce_Analysis_git.xlsx)
 
 
