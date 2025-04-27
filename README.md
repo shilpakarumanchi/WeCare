@@ -1,4 +1,6 @@
 # Overview
+Established in 2018, WeCare Staffing links healthcare professionals with leading facilities in need of support. Facilities gain access to qualified help, while caregivers enjoy flexibility, freedom, and competitive pay to live life on their terms.
+
 This analysis explores key patterns and anomalies in shift activity and performance on the WeCare Medical Staffing platform across three core areas, to support the team for a deeper understanding of business outcomes:
 1.	Shift Popularity - Trends in shift views, availability, and shifts worked.
 2.	Earning Insights - Top performing months, days of the week, and time slots.
@@ -6,7 +8,7 @@ This analysis explores key patterns and anomalies in shift activity and performa
 
 # Data processing
 - Original dataset in Excel can be found [here](https://github.com/shilpakarumanchi/WeCare/blob/56df8f77df12083a9a22cc7fe28fc0688aa5fe9f/connect_shift_python.xlsx)
-- Data analysis in Python can be found [here](https://github.com/shilpakarumanchi/Avada-e-commerce/blob/a087a4413d174ad601b6fcfbed092c1fd3b2eef5/Avada_ecommerce_Analysis_git.xlsx)
+- Data analysis in Python can be found [here](https://github.com/shilpakarumanchi/WeCare/blob/50329be245995c138291e4545d7a26a4135ec96b/shifts-analysis%20(2).ipynb)
 
 
 # Executive Summary
