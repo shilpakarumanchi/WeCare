@@ -13,7 +13,7 @@ Data analysis code can be found here.
 •	My investigation indicates a need to strategically boost weekend shift claims while enhancing shift conversion rates across all days of week.
 •	Amongst other anomalies, there were 192 (1%) post-claim deletions by workplaces, potentially impacting worker trust, an issue reflected in reviews citing shift reliability.
 
-###Shift Volume Peaked in Oct ’24, Then Gradually Declined   
+### Shift Volume Peaked in Oct ’24, Then Gradually Declined   
 ![image](https://github.com/user-attachments/assets/19e382ac-aaee-4fce-af6e-d890715b9f21)
 
 
@@ -32,14 +32,14 @@ Data analysis code can be found here.
 •	Tuesdays, Wednesdays, and Thursdays record the lowest number of worked shifts, averaging around 1,500 each.
 •	Despite volume differences, the conversion rate from available to worked shifts was highest for Tuesday, Wednesday (67%) and lowest for Friday, Saturday (60%).
 
-###More Shifts Worked during the Weekend
+### More Shifts Worked during the Weekend
 ![image](https://github.com/user-attachments/assets/12c6a2a7-33ce-4065-be58-02bb47862e9b)
 
 ## Charge Rate Vs Pay Rate
 •	On average, each shift was charged $31 per hour to the workplace and paid out at $23 per hour to the worker, generating an average revenue of $8 per hour for WeCare Staffing.
 •	However, there are 24,094 shift offers where the pay rate exceeded the charge rate, resulting in a potential revenue loss for WeCare Staffing.
 •	Pay rates across different views of the same shift vary up to $1 per hour. However, in certain cases, the difference can be as high as $26 per hour.
-###24,094 Offers with Revenue Loss
+### 24,094 Offers with Revenue Loss
 ![image](https://github.com/user-attachments/assets/523022e4-1474-4640-9003-e01c60ab4206)
 
  
@@ -49,7 +49,7 @@ Data analysis code can be found here.
 •	October also generated the highest revenue, with $972,992 charged to workplaces and $772,246 paid to workers, resulting in a revenue of $200,744.
 •	Gross revenue margin (revenue as a percentage of amount charged) ranged from 15% in December and January to 21% in September and October.
 
-###October 2024 Leads in Shift Volume and in Revenue.
+### October 2024 Leads in Shift Volume and in Revenue.
 ![image](https://github.com/user-attachments/assets/6b73db91-cbb8-462b-9e93-fa2a9fc3728a)
 ![image](https://github.com/user-attachments/assets/a880ea55-49fd-44ad-b0d3-51be6bedcc4b)
 
@@ -62,7 +62,7 @@ Data analysis code can be found here.
 •	Shift duration and charge rate per hour stays consistent across the three slot types and seven days of the week (Figure S1).
 •	The interquartile range (25th-75th percentile) of shift starting times for AM shifts fall between 13:00 and 14:30, for PM shifts between 21:30 and 22:30, and for NOC shifts between 05:30 and 06:30.
 •	However, these observed slot times do not align with standard shift start times commonly used in the healthcare and staffing industries, where AM shifts typically begin between 07:00 and 08:00, PM shifts between 15:00 and 16:00, and NOC shifts between 23:00 and 00:00.
-###Slot Start Time Misalignment with Industry Standards
+### Slot Start Time Misalignment with Industry Standards
 ![image](https://github.com/user-attachments/assets/c5954eb6-c916-4209-8f10-c61e829a9bc4)
 
  
@@ -81,12 +81,12 @@ This report aims to showcase my analytical capabilities from a business perspect
 
 . 
 ## Supplementary Information
-###Figure S1: Charge rate per hour and Duration of shift stays consistent across slot type & day of week.
+### Figure S1: Charge rate per hour and Duration of shift stays consistent across slot type & day of week.
 ![image](https://github.com/user-attachments/assets/5f7a7bd2-b175-4b38-a9c7-2a8710c9836f)
 
  
  
-###Figure S2: Workplace Deletions After Shift Claim and Shift Commencement.
+### Figure S2: Workplace Deletions After Shift Claim and Shift Commencement.
 
 
  
