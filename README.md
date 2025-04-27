@@ -57,7 +57,8 @@ This analysis explores key patterns and anomalies in shift activity and performa
 
 ### October 2024 Leads in Shift Volume and in Revenue.
 ![image](https://github.com/user-attachments/assets/6b73db91-cbb8-462b-9e93-fa2a9fc3728a)
-![image](https://github.com/user-attachments/assets/a880ea55-49fd-44ad-b0d3-51be6bedcc4b)
+![Screenshot 2025-04-23 091829](https://github.com/user-attachments/assets/ce3c9ef4-504e-4755-980e-a5cfb4a813cd)
+
  
 ## Slot Types
 -	Across the three time slots, the highest number of shifts were created for the PM slot (8,218), followed by AM (7,051), and then NOC (4,631).
