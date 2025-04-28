@@ -57,7 +57,7 @@ This analysis explores key patterns and anomalies in shift activity and performa
 
 ### October 2024 Leads in Shift Volume and in Revenue.
 ![image](https://github.com/user-attachments/assets/6b73db91-cbb8-462b-9e93-fa2a9fc3728a)
-![Screenshot 2025-04-23 091829](https://github.com/user-attachments/assets/ce3c9ef4-504e-4755-980e-a5cfb4a813cd)
+![Screenshot 2025-04-28 100704](https://github.com/user-attachments/assets/6b5b5f0b-86b9-47f1-8917-c9dcb37191a3)
 
  
 ## Slot Types
